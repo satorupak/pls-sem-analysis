@@ -1,0 +1,10 @@
+# Do not commit the confidential source workbook
+Code repository data(1).xlsx
+
+# Common local / R-generated files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
